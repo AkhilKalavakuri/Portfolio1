@@ -18,7 +18,7 @@ export const HERO = {
 // Used in both the Contact section and the footer.
 
 export const CONTACT = {
-  email: "alex.mitchell@email.com",
+  email: "akhilkalavakuri3@gmail.com",
   linkedin: "linkedin.com/in/alexmitchell",
   linkedinUrl: "https://linkedin.com/in/alexmitchell",
   cvUrl: "#",                           // Replace with path to your PDF CV
