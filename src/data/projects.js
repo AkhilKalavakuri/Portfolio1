@@ -7,8 +7,8 @@
 
 export const PROJECTS = [
   {
-    title: "SME Retail Chain Credit Assessment",
-    industry: "Retail / SME",
+    title: "Pennine Foods Ltd — SME Term Loan Assessment",
+    industry: "Food Manufacturing / SME",
     insight: "Identified covenant breach risk 18 months before default event",
     riskTag: "High",
 
