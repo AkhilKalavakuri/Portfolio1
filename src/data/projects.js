@@ -9,14 +9,14 @@ export const PROJECTS = [
   {
     title: "Pennine Foods Ltd — SME Term Loan Assessment",
     industry: "Food Manufacturing / SME",
-    insight: "Identified covenant breach risk 18 months before default event",
-    riskTag: "High",
+    insight: "Structured £500k equipment finance approval with covenant breach identified under stress scenario",
+    riskTag: "Low",
 
     summary:
-      "Conducted a full credit review of a UK-based retail SME with £4.2m turnover applying for a £750k working capital facility. Analysed three years of audited accounts, management accounts, and cash flow projections amid post-pandemic recovery pressure.",
+      "Conducted a full credit assessment of a Leeds-based ambient food manufacturer with £8.6m revenue applying for a £500,000 5-year term loan at 7.25% fixed to fund automated production equipment. Analysed three years of audited FRS 102 accounts, built a three-statement model, and stress-tested projected cash flows across base and downside scenarios.",
 
     outcome:
-      "Current ratio declined from 1.4x to 0.9x over 24 months. DSCR fell to 0.87x, below the 1.15x covenant threshold. Gross margin compression of 6.2 percentage points identified as primary driver of deterioration.",
+      "Historic DSCR improved from 3.51x to 5.33x over the three-year review period against a 1.25x covenant. Downside stress test identified a covenant breach to 1.01x in FY2025, recovering to 2.12x in FY2026. Gross margin compression to 33.5% in FY2022 identified as the primary driver of below-benchmark net profit margin (4.8% vs 5% threshold).",
 
     tools: [
       "Excel modelling",
