@@ -28,7 +28,7 @@ export const PROJECTS = [
     "Credit memo writing",
     ],
 
-    recommendation: "Approve",
+    recommendation: "Approve with Conditions",
 
     keyRisks: [
       "Customer concentration: top 3 accounts = 74% of revenue — single loss drives FY2025 covenant breach to 1.01x",
