@@ -20,23 +20,25 @@ export const PROJECTS = [
 
     tools: [
       "Excel modelling",
-      "Ratio analysis",
-      "Cash flow forecasting",
-      "Stress testing",
-      "Financial statement analysis",
+    "Three-statement modelling",
+    "Ratio analysis",
+    "DSCR analysis",
+    "Stress testing",
+    "Cash flow forecasting",
+    "Credit memo writing",
     ],
 
-    recommendation: "Monitor",
+    recommendation: "Approve",
 
     keyRisks: [
-      "DSCR below covenant at 0.87x — breach likely within 2 quarters under base case",
-      "Inventory build-up increasing net working capital cycle by 34 days",
-      "Single-supplier concentration: 62% of COGS from one vendor",
-      "Management accounts show £180k unrecognised creditor liability",
+      "Customer concentration: top 3 accounts = 74% of revenue — single loss drives FY2025 covenant breach to 1.01x",
+    "Input cost inflation compressed gross margin by 2.0pp in FY2022; net margin fell to 4.8%, below the 5% benchmark",
+    "Key-person dependency: MD holds all retailer relationships — key-man insurance required as hard drawdown condition",
+    "100% LTV at inception on specialist equipment; forced-sale recovery estimated at c.£220k vs £320k mid-term balance",
     ],
 
     reasoning:
-      "Facility not recommended in current form. Recommend restructured facility with monthly covenant monitoring, personal guarantee, and 12-month lock-in on discretionary capex. Re-evaluate upon two consecutive quarters of DSCR recovery above 1.10x.",
+      "Facility approved subject to 1.25x annual DSCR covenant with 60-day cure and cash lock-up on breach, personal guarantees from all three directors, and key-man life insurance on MD. Base case DSCR of 3.61x (FY2025) provides 2.36x headroom above covenant. Existing leverage is low — net debt/EBITDA moves from 0.13x in FY2022 to net cash by FY2024..",
   },
 
   {
