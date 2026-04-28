@@ -8,7 +8,7 @@ export const EDUCATION = [
   degree: "MSc Finance",
   institution: "University of Bath",
   dates: "2023 - 2025",
-  grade: "Merit",
+  grade: "2:2 Classification",
 
   modules: [
     "Investment and Portfolio Management",
