@@ -5,6 +5,28 @@
 
 export const EDUCATION = [
   {
+  degree: "MSc Finance",
+  institution: "University of Bath",
+  dates: "2023 - 2025",
+  grade: "Merit",
+
+  modules: [
+    "Investment and Portfolio Management",
+    "Financial Engineering",
+    "Risk Modelling and Analysis",
+    "Introduction to Quantitative Finance",
+    "Programming for Finance",
+    "Econometrics and Data Analysis",
+    "Financial Statement Analysis and Equity Valuation"
+  ],
+
+  certifications: [
+    "Bloomberg Global Trading Challenge",
+    "AmplifyME Global Markets Simulation",
+    "AmplifyME M&A and IPO Simulation"
+  ],
+},
+  {
     degree: "Bachelor of Business Administration",
     institution: "ICFAI Business School",
     dates: "2019 – 2022",
