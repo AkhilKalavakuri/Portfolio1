@@ -17,6 +17,14 @@ export const SKILLS = {
       name: "SQL",
       detail: "Data extraction and aggregation for portfolio reporting",
     },
+    {
+  name: "MS Word",
+  description: "Investment memos, reports and structured business writing"
+},
+{
+  name: "PowerPoint",
+  description: "Pitch decks and professional investment presentations"
+},
     
     // Add more technical skills here
   ],
