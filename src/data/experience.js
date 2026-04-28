@@ -22,19 +22,20 @@ export const EXPERIENCE = [
   },
 
   {
-    company: "Deloitte (Finance & Risk Advisory)",
-    role: "Spring Insight Week",
-    dates: "Apr 2024",
+    company: "Corizo - Bengaluru, India",
+    role: "Investment Analyst Intern",
+    dates: "Oct 2022 – May 2023",
 
     responsibilities: [
-      "Participated in a simulated credit due diligence exercise on a fictional acquisition target, preparing a written risk assessment and presenting findings to senior advisors",
-      "Attended client-facing workshops on restructuring and debt advisory, gaining exposure to distressed credit analysis frameworks",
+      "Built DCF and trading-multiple models for listed Indian oil & gas companies using multi-year financials and scenarios on oil prices, volumes and capex, helping advisors compare valuation ranges across ~12 companies and refine recommendations by ~15%.",
+      "Developed Excel/VBA portfolio-tracking tools for Nifty, gold and real-estate holdings, automating return, risk and allocation calculations into KPI dashboards, reducing manual processing time by ~5 hours per week and improving data accuracy by ~20%.",
+      "Queried large datasets with SQL and integrated Morningstar/PitchBook exports to standardise margins, leverage and capex for 20+ oil & gas companies, cutting data-cleaning time by ~30% and sharpening peer benchmarking for ~10 internal research notes.",
     ],
 
-    skills: ["Due diligence", "Risk assessment", "Presentation skills"],
+    skills: ["Financial modeling (DCF, trading multiples), Excel/VBA automation & KPI dashboards, data analysis (scenarios, returns, risk), SQL querying & data integration, valuation & peer benchmarking, process automation & efficiency gains"],
 
     outcome:
-      "Selected as one of 12 students (from 200 applicants) for the Finance & Risk track. Received offer to apply for graduate programme.",
+      "Refined investment recommendations by ~15% through accurate DCF/multiples modelling across ~12 oil & gas companies. Automated portfolio tracking and data processes to cut manual time by ~5 hours/week and ~30%, while boosting accuracy by ~20%.",
   },
 
   {
