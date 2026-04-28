@@ -48,6 +48,7 @@ modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSe
     industry: "Corporate / Branded FMCG",
     insight: "£330m Notes refinancing risk conditioned into £275m syndicated facility for FTSE-listed food group",
     riskTag: "Medium",
+    modelLabel: "View Financial Model",
 
     summary:
       "Prepared a full corporate credit memorandum for Premier Foods PLC (FTSE 250, FY24/25 revenue £1.15bn), the UK's leading branded ambient food manufacturer (Mr Kipling, Bisto, Ambrosia, OXO). Assessed four years of audited financials, evaluated a complex capital structure comprising senior secured notes, a syndicated RCF and bridge facility, and modelled base and downside scenarios across a 3-year projection horizon.",
