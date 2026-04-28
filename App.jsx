@@ -273,6 +273,53 @@ const ProjectCard = ({ p, idx }) => {
                     <div style={{ marginTop: 14, paddingTop: 14, borderTop: `1px solid ${C.lightSlate}`, fontSize: 14, color: C.navy, lineHeight: 1.7 }}>
                       <strong style={{ color: C.deepBlue }}>Reasoning: </strong>{p.reasoning}
                     </div>
+                    {p.pdfLink && (
+  <div style={{ marginTop: 16 }}>
+    <a
+      href={p.pdfLink}
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{
+        display: "inline-block",
+        padding: "10px 24px",
+        background: C.midBlue,
+        color: "#fff",
+        textDecoration: "none",
+        borderRadius: 4,
+        fontSize: 13,
+        fontWeight: 600,
+        letterSpacing: "0.05em",
+        textTransform: "uppercase",
+      }}
+    >
+      View Full Memo (PDF)
+    </a>
+  </div>
+)}
+
+{p.modelUrl && (
+  <div style={{ marginTop: 12 }}>
+    <a
+      href={p.modelUrl}
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{
+        display: "inline-block",
+        padding: "10px 24px",
+        background: C.midBlue,
+        color: "#fff",
+        textDecoration: "none",
+        borderRadius: 4,
+        fontSize: 13,
+        fontWeight: 600,
+        letterSpacing: "0.05em",
+        textTransform: "uppercase",
+      }}
+    >
+      {p.modelLabel || "View Financial Model"}
+    </a>
+  </div>
+)}
                   </div>
                 </div>
 
