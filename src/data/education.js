@@ -5,27 +5,23 @@
 
 export const EDUCATION = [
   {
-    degree: "BSc Economics with Finance",
-    institution: "University of Leeds",
-    dates: "2021 – 2024",
-    grade: "First Class Honours (Predicted)",
-
-    modules: [
-      "Corporate Finance",
-      "Financial Accounting",
-      "Risk Management",
-      "Econometrics",
-      "Fixed Income Markets",
-      "Banking & Financial Intermediation",
+    degree: "Bachelor of Business Administration",
+    institution: "ICFAI Business School",
+    dates: "2019 – 2022",
+    grade: "First Class",
     ],
+  
+    modules: [
+  "Financial Management",
+  "Financial Accounting",
+  "Security Analysis and Portfolio Management",
+  "Derivatives"
+],
 
-    dissertation:
-      "The Predictive Power of Altman Z-Score in UK SME Credit Default (Grade: 78%)",
 
     certifications: [
-      "CFA Level 1 Candidate (Dec 2025 sitting)",
-      "Bloomberg Market Concepts (BMC)",
-      "CISI Introduction to Securities & Investment",
+      "NISM Series Certification in Financial Markets",
+  "Head of Operations, Arena Sports Club",
     ],
   },
 
