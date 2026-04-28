@@ -9,7 +9,6 @@ export const EDUCATION = [
     institution: "ICFAI Business School",
     dates: "2019 – 2022",
     grade: "First Class",
-    ],
   
     modules: [
   "Financial Management",
