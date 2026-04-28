@@ -38,22 +38,7 @@ export const EXPERIENCE = [
       "Refined investment recommendations by ~15% through accurate DCF/multiples modelling across ~12 oil & gas companies. Automated portfolio tracking and data processes to cut manual time by ~5 hours/week and ~30%, while boosting accuracy by ~20%.",
   },
 
-  {
-    company: "University Investment Society",
-    role: "Head of Fixed Income Research",
-    dates: "Sep 2023 – Jun 2024",
-
-    responsibilities: [
-      "Led a team of 4 analysts producing weekly fixed income research notes covering investment-grade and high-yield credit markets",
-      "Presented monthly credit market outlook to 80+ member audience, covering spread movements, default trends, and sector positioning",
-      "Built an Excel-based bond screening model tracking 50 corporate issuers by yield, duration, and credit rating",
-    ],
-
-    skills: ["Fixed income research", "Credit markets", "Excel modelling", "Team leadership"],
-
-    outcome:
-      "Research outputs cited by 3 external fintech firms as part of their graduate recruitment process. Society membership grew 40% YoY during tenure.",
-  },
+  
 
   // ── ADD NEW ROLES BELOW (or above to show at the top of timeline) ──────
   // {
