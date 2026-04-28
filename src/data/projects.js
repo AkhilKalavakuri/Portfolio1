@@ -11,6 +11,8 @@ export const PROJECTS = [
     industry: "Food Manufacturing / SME",
     insight: "Structured £500k equipment finance approval with covenant breach identified under stress scenario",
     riskTag: "Low",
+    modelLabel: "View Financial Model",
+modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSelz_/edit?usp=sharing",
 
     summary:
       "Conducted a full credit assessment of a Leeds-based ambient food manufacturer with £8.6m revenue applying for a £500,000 5-year term loan at 7.25% fixed to fund automated production equipment. Analysed three years of audited FRS 102 accounts, built a three-statement model, and stress-tested projected cash flows across base and downside scenarios.",
