@@ -17,10 +17,7 @@ export const SKILLS = {
       name: "SQL",
       detail: "Data extraction and aggregation for portfolio reporting",
     },
-    {
-      name: "Power BI",
-      detail: "Dashboard creation for credit portfolio monitoring",
-    },
+    
     // Add more technical skills here
   ],
 
