@@ -19,11 +19,11 @@ export const SKILLS = {
     },
     {
   name: "MS Word",
-  description: "Investment memos, reports and structured business writing"
+  detail: "Investment memos, reports and structured business writing"
 },
 {
   name: "PowerPoint",
-  description: "Pitch decks and professional investment presentations"
+  detail: "Pitch decks and professional investment presentations"
 },
     
     // Add more technical skills here
