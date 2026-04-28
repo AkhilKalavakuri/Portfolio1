@@ -6,7 +6,7 @@
 export const EXPERIENCE = [
   {
     company: "Upper Echelon",
-    role: "Capital Associate Intern – Upper Echelon, Remote (UK)",
+    role: "Capital Associate Intern – Remote (UK)",
     dates: "Aug 2025 – Dec 2025",
 
     responsibilities: [
