@@ -5,20 +5,20 @@
 
 export const EXPERIENCE = [
   {
-    company: "Barclays Business Banking",
-    role: "Credit Risk Intern",
-    dates: "Jun 2024 – Aug 2024",
+    company: "Upper Echelon",
+    role: "Capital Associate Intern",
+    dates: "Aug 2025 – Dec 2025",
 
     responsibilities: [
-      "Supported relationship managers in preparing credit applications for SME facilities up to £2m, ensuring submissions met internal credit policy requirements",
-      "Spread financial statements for 30+ borrowers using internal systems, calculating key ratios including DSCR, leverage, and current ratio",
-      "Assisted in annual review of 15 monitored facilities, flagging covenant breaches and preparing early-warning reports for the credit committee",
+      "Built an Excel/CRM pipeline KPI tracker (PAR tagging, pivot tables, funnel views) capturing cheque size, AUM, cost-of-capital and stage metrics, lifting data compliance from ~60% to ~95% and cutting lead-routing turnaround from ~48 to ~24 hours.",
+      "Led the UK real estate outbound programme end-to-end, logging 820+ LinkedIn & email outreaches and tracking conversion metrics (~29% connection, ~8% sign-up), testing messages by investor type and consistently exceeding weekly outreach KPIs by ~40%.",
+      "Mapped and screened 150+ investors (REITs, funds, family offices), building relationships with founders, directors and family office principals, standardising HubSpot records by cheque size, mandate and targets to sharpen segmentation and cut time to first call.",
     ],
 
-    skills: ["Credit analysis", "Ratio spreading", "Covenant monitoring", "Report writing"],
+    skills: ["Data analysis & KPI tracking, Excel (pivot tables & dashboards)", "CRM management (HubSpot)", "sales pipeline & lead generation", "process optimization", "investor research & relationship management"],
 
     outcome:
-      "Contributed to credit review process that supported £8.4m in approved facilities across the internship period. Commended by line manager for accuracy of financial spreading and quality of written summaries.",
+      "Delivered measurable impact by lifting data compliance from ~60% to ~95% and cutting lead-routing turnaround from ~48 to ~24 hours through Excel/CRM optimization. Led high-volume outbound campaigns that logged 820+ outreaches, achieved ~29% connection and ~8% sign-up rates, and consistently exceeded weekly KPIs by ~40%"
   },
 
   {
