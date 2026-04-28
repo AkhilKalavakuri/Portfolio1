@@ -15,7 +15,7 @@ export const EXPERIENCE = [
       "Mapped and screened 150+ investors (REITs, funds, family offices), building relationships with founders, directors and family office principals, standardising HubSpot records by cheque size, mandate and targets to sharpen segmentation and cut time to first call.",
     ],
 
-    skills: ["Data analysis & KPI tracking, Excel (pivot tables & dashboards)", "CRM management (HubSpot)", "sales pipeline & lead generation", "process optimization", "investor research & relationship management"],
+    skills: ["Data analysis & KPI tracking", "Excel (pivot tables & dashboards)", "CRM management (HubSpot)", "sales pipeline & lead generation", "process optimization", "investor research & relationship management"],
 
     outcome:
       "Delivered measurable impact by lifting data compliance from ~60% to ~95% and cutting lead-routing turnaround from ~48 to ~24 hours through Excel/CRM optimization. Led high-volume outbound campaigns that logged 820+ outreaches, achieved ~29% connection and ~8% sign-up rates, and consistently exceeded weekly KPIs by ~40%"
@@ -32,7 +32,7 @@ export const EXPERIENCE = [
       "Queried large datasets with SQL and integrated Morningstar/PitchBook exports to standardise margins, leverage and capex for 20+ oil & gas companies, cutting data-cleaning time by ~30% and sharpening peer benchmarking for ~10 internal research notes.",
     ],
 
-    skills: ["Financial modeling (DCF, trading multiples), Excel/VBA automation & KPI dashboards, data analysis (scenarios, returns, risk), SQL querying & data integration, valuation & peer benchmarking, process automation & efficiency gains"],
+    skills: ["Financial modeling (DCF, trading multiples)", "Excel/VBA automation & KPI dashboards", "data analysis (scenarios, returns, risk)", "SQL querying & data integration", "valuation & peer benchmarking", "process automation & efficiency gains"],
 
     outcome:
       "Refined investment recommendations by ~15% through accurate DCF/multiples modelling across ~12 oil & gas companies. Automated portfolio tracking and data processes to cut manual time by ~5 hours/week and ~30%, while boosting accuracy by ~20%.",
