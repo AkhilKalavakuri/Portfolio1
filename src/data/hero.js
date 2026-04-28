@@ -18,9 +18,9 @@ export const HERO = {
 // Used in both the Contact section and the footer.
 
 export const CONTACT = {
-  email: "alex.mitchell@email.com",
-  linkedin: "linkedin.com/in/alexmitchell",
-  linkedinUrl: "https://linkedin.com/in/alexmitchell",
+  email: "akhilkalavakuri3@gmail.com",
+  linkedin: "linkedin.com/in/akhilkalavakuri",
+  linkedinUrl: "www.linkedin.com/in/akhilkalavakuri",
   cvUrl: "#",                           // Replace with path to your PDF CV
   cta: "Open to credit analyst roles and internships in banking, lending, and risk analysis.",
 };
