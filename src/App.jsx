@@ -276,10 +276,10 @@ const ProjectCard = ({ p, idx }) => {
 
 {p.pdfLink && (
   <div style={{ marginTop: 16 }}>
-    
+    <a
       href={p.pdfLink}
       target="_blank"
-      rel="noreferrer"
+      rel="noopener noreferrer"
       style={{
         display: "inline-block",
         padding: "10px 24px",
@@ -292,26 +292,9 @@ const ProjectCard = ({ p, idx }) => {
         letterSpacing: "0.05em",
         textTransform: "uppercase",
       }}
-    <a
-  href="/Premier_Foods_Credit_Memo.pdf"
-  target="_blank"
-  rel="noopener noreferrer"
-  style={{
-    display: "inline-block",
-    marginTop: 12,
-    padding: "10px 24px",
-    background: C.midBlue,
-    color: "#fff",
-    textDecoration: "none",
-    borderRadius: 4,
-    fontSize: 13,
-    fontWeight: 600,
-    letterSpacing: "0.05em",
-    textTransform: "uppercase",
-  }}
->
-  View Full Memo (PDF)
-</a>
+    >
+      View Full Memo (PDF)
+    </a>
   </div>
 )}
                   </div>
