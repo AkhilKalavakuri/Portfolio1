@@ -213,10 +213,13 @@ const ProjectCard = ({ p, idx }) => {
                   <div className="field-label">Project Summary</div>
                   <p className="project-summary-text">{p.summary}</p>
                 </div>
+                <div className="project-link">
+                  <a href={p.modelUrl} target="blank" className="UrlLink">URL for googlesheets</a>
+                </div>
 
                 <div className="project-outcome">
                   <div className="field-label">Quantifiable Outcome</div>
-                  <p className="project-outcome-text">{p.outcome}</p>
+                  <p className="project-outcome-text">{p.outcome}</p>s
                 </div>
 
                 <div className="project-tools">

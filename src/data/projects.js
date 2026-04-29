@@ -41,6 +41,7 @@ modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSe
 
     reasoning:
       "Facility approved subject to 1.25x annual DSCR covenant with 60-day cure and cash lock-up on breach, personal guarantees from all three directors, and key-man life insurance on MD. Base case DSCR of 3.61x (FY2025) provides 2.36x headroom above covenant. Existing leverage is low — net debt/EBITDA moves from 0.13x in FY2022 to net cash by FY2024.",
+      pdfLink: "/Premier_Foods_Credit_Memo.pdf",
   },
 
   {

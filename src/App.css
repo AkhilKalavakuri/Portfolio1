@@ -361,6 +361,12 @@ button:focus {
   line-height: 1.75;
   margin: 0;
 }
+.project-link{
+  font-size:  15px;
+  color: #5B9BC8;
+  margin-bottom: 1rem;
+}
+
 .project-outcome {
   background: var(--off-white);
   border-radius: 6px;
