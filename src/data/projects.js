@@ -82,6 +82,44 @@ modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSe
 
     pdfLink: "/Premier_Foods_Credit_Memo.pdf",
   },
+  {
+    title: "UK SME Loan Portfolio — Credit Risk Monitoring Dashboard",
+    industry: "Banking / SME Lending",
+    insight: "900-loan, £249m synthetic UK SME book — 2.7% NPL, 9.1% covenant breach rate, Construction & Real Estate flagged as top concentration risk",
+    riskTag: "Medium",
+    modelLabel: "View Portfolio Dashboard",
+    modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSelz_/edit?usp=sharing",
+
+    summary:
+      "Personal project built on a calibrated synthetic dataset benchmarked to UK Finance, British Business Bank and Bank of England SME loan-level data — no real client engagement. Designed an Excel credit-risk monitoring dashboard for a 900-loan UK SME book (£249m outstanding, £375m committed). Single-page committee view with five KPIs, four charts (ageing, sector exposure, rating distribution, maturity wall) and a top-10 risk-ranked loan table.",
+
+    outcome:
+      "ortfolio NPL: 2.73% by exposure (23 of 900 loans). Covenant breach rate: 9.11% (82 loans) — the leading-indicator population. Highest-NPL sectors: Construction 4.35%, Real Estate 3.81%. Largest concentrations: Wholesale & Retail £44.9m (18%), Construction £37.4m (15%). Maturity wall front-loaded: £136.5m (55% of book) matures 2025–2028, peaking in 2027 at £37.3m. Top-10 risk-ranked loans dominated by CCC borrowers, totalling £8.9m exposure.",
+
+    tools: [
+      "Excel (Tables, PivotTables, structured references)",
+      "SUMIFS / COUNTIFS / SUMPRODUCT",
+      "KPI dashboard design",
+      "NPL & covenant monitoring",
+      "Days past due ageing",
+      "Internal rating scales (BBB–CCC)",
+      "Sector concentration analysis",
+    ],
+
+    recommendation: "Approve with Conditions",
+
+    keyRisks: [
+      "Sector concentration — Construction (£37.4m) and Real Estate (£30.6m) are the largest exposures and also the highest-NPL sectors (4.35% and 3.81%); combined £68m at elevated default rates",
+      "Refinancing wall — £136.5m (55% of book) matures 2025–2028, peaking at £37.3m in 2027, creating material rate and liquidity risk at roll",
+      "Covenant breach population — 82 loans (9.1%) in breach vs 2.7% headline NPL; early-warning population requires proactive engagement",
+      "CCC rating tail — Top-10 risk-ranked loans concentrated in cyclical CCC borrowers (£8.9m), warranting a dedicated watchlist review",
+    ],
+
+    reasoning:
+      "Headline NPL of 2.73% sits within the 2–3% range typical for UK SME books, and NPL behaves consistently with the rating model. However, sector concentration overlaps with the highest-NPL sectors (textbook concentration risk), the 9.1% covenant breach rate is 3x headline NPL, and 55% of the book matures within four years. Recommend temporary sector caps on Construction/Real Estate new business, targeted intervention on the 82 covenant-breached loans, and a treasury-led refinancing plan 12–24 months ahead of the 2026–2028 peak.",
+
+    pdfLink: "/Premier_Foods_Credit_Memo.pdf",
+  },
 
   // ── ADD NEW PROJECTS BELOW ─────────────────────────────────────────────
   // {
