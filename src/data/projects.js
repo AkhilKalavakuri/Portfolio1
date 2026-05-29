@@ -87,7 +87,7 @@ modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSe
     industry: "Banking / SME Lending",
     insight: "900-loan, £249m synthetic UK SME book — 2.7% NPL, 9.1% covenant breach rate, Construction & Real Estate flagged as top concentration risk",
     riskTag: "Medium",
-    modelLabel: "View Portfolio Dashboard",
+    modelLabel: "",
     modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSelz_/edit?usp=sharing",
 
     summary:
