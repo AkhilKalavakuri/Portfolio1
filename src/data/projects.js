@@ -88,7 +88,7 @@ modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSe
     insight: "900-loan, £249m synthetic UK SME book — 2.7% NPL, 9.1% covenant breach rate, Construction & Real Estate flagged as top concentration risk",
     riskTag: "Medium",
     modelLabel: "",
-    modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSelz_/edit?usp=sharing",
+    modelUrl: "https://docs.google.com/spreadsheets/d/136EyMh3ws4zJ8MB6mS-GSfTBiKSXIV6IatGkYXYeUWM/edit?usp=sharing",
 
     summary:
       "Personal project built on a calibrated synthetic dataset benchmarked to UK Finance, British Business Bank and Bank of England SME loan-level data — no real client engagement. Designed an Excel credit-risk monitoring dashboard for a 900-loan UK SME book (£249m outstanding, £375m committed). Single-page committee view with five KPIs, four charts (ageing, sector exposure, rating distribution, maturity wall) and a top-10 risk-ranked loan table.",
