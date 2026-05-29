@@ -118,7 +118,7 @@ modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSe
     reasoning:
       "Headline NPL of 2.73% sits within the 2–3% range typical for UK SME books, and NPL behaves consistently with the rating model. However, sector concentration overlaps with the highest-NPL sectors (textbook concentration risk), the 9.1% covenant breach rate is 3x headline NPL, and 55% of the book matures within four years. Recommend temporary sector caps on Construction/Real Estate new business, targeted intervention on the 82 covenant-breached loans, and a treasury-led refinancing plan 12–24 months ahead of the 2026–2028 peak.",
 
-    pdfLink: "/Premier_Foods_Credit_Memo.pdf",
+    pdfLink: "https://docs.google.com/spreadsheets/d/136EyMh3ws4zJ8MB6mS-GSfTBiKSXIV6IatGkYXYeUWM/edit?usp=sharing",
   },
 
   // ── ADD NEW PROJECTS BELOW ─────────────────────────────────────────────
