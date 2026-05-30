@@ -20,6 +20,19 @@ export const EXPERIENCE = [
     outcome:
       "Delivered measurable impact by lifting data compliance from ~60% to ~95% and cutting lead-routing turnaround from ~48 to ~24 hours through Excel/CRM optimization. Led high-volume outbound campaigns that logged 820+ outreaches, achieved ~29% connection and ~8% sign-up rates, and consistently exceeded weekly KPIs by ~40%"
   },
+  {
+    company: "GRN Constructions - Hyderabad, India",
+    role: "FP&A Analyst Intern",
+    dates: "Jan 2023 – Aug 2023",
+    responsibilities: [
+      "Supported annual budgeting and monthly rolling forecasts across 12+ mining and civil contracts, maintaining Excel models and consolidating inputs from site, operations and procurement teams to reduce forecast error by 18% and surface cost-saving initiatives worth ₹1 Cr (~£94K) annually.",
+      "Produced monthly management accounts, KPI dashboards and variance analysis vs budget/forecast in Tally and Excel, highlighting key drivers of revenue, project EBITDA and cost-per-tonne performance for the CFO and leadership team.",
+      "Analysed operational and financial KPIs across 8 site-level cost centres to identify diesel, manpower and equipment utilisation cost drivers, supporting efficiency improvements and overhead rationalisation across active sites.",
+    ],
+    skills: ["Budgeting & forecasting", "Excel financial modelling", "Management accounts & KPI dashboards", "Variance analysis", "Tally", "Cost driver analysis", "FP&A reporting"],
+    outcome:
+      "Reduced forecast error by 18% across 12+ mining and civil contracts and surfaced cost-saving initiatives worth ₹1 Cr (~£94K) annually. Built KPI dashboards and variance analysis used by the CFO and leadership team to track revenue, EBITDA and cost-per-tonne performance across 8 site-level cost centres.",
+  },
 
   {
     company: "Corizo - Bengaluru, India",
