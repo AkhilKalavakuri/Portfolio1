@@ -5,8 +5,8 @@
 
 export const EXPERIENCE = [
   {
-    company: "Upper Echelon",
-    role: "Capital Associate Intern – Remote (UK)",
+    company: "DFX",
+    role: "Capital Associate Intern – Remote (UK, based in Boston, USA)",
     dates: "Aug 2025 – Dec 2025",
 
     responsibilities: [
