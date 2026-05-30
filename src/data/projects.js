@@ -80,7 +80,7 @@ modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSe
     reasoning:
       "Approved subject to successful refinancing of the £330m 2026 Notes prior to Term Loan drawdown, maximum Net Debt/EBITDA covenant of 3.5x, minimum interest cover of 3.0x, and cap on acquisitions exceeding £150m without majority lender consent. BB+ Stable ratings from S&P and Fitch, sub-1x leverage and £140m FY24/25 free cash flow confirm Premier as a high-quality defensive credit well within policy thresholds in both base and stress scenarios.",
 
-    pdfLink: "/Premier_Foods_Credit_Memo.pdf",
+    pdfLink: "https://drive.google.com/file/d/1T2_lbdMEmHhqx14uZSER0m9AH3TBjoFP/view?usp=sharing",
   },
   {
     title: "UK SME Loan Portfolio — Credit Risk Monitoring Dashboard",
