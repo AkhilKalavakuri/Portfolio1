@@ -6,7 +6,7 @@ export const HERO = {
   title: "Junior Credit Analyst",
   eyebrow: "Credit Risk · Financial Analysis · Lending",
   positioning:
-    "I analyse businesses through the lens of credit risk — interpreting financial statements, stress-testing cashflows, and structuring lending recommendations that balance opportunity with downside protection.",
+    "I assess businesses from a credit risk perspective by reviewing financial statements, stress-testing cash flows and building lending recommendations that balance growth opportunities with downside protection.",
   strengths: [
     "Financial Statement Analysis",
     "Credit Risk Evaluation",
