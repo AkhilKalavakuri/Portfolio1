@@ -49,7 +49,7 @@ modelUrl: "https://docs.google.com/spreadsheets/d/1P9UIRa1EHxdiRJWkpGnQl2d53FpSe
     industry: "Corporate / Branded FMCG",
     insight: "£330m Notes refinancing risk conditioned into £275m syndicated facility for FTSE-listed food group",
     riskTag: "Medium",
-    modelLabel: "View Financial Model",
+    modelLabel: "URL for credit memo",
     modelUrl: "https://drive.google.com/file/d/1T2_lbdMEmHhqx14uZSER0m9AH3TBjoFP/view?usp=sharing",
 
     summary:
