@@ -37,7 +37,7 @@ export const EXPERIENCE = [
   {
     company: "Corizo - Bengaluru, India",
     role: "Investment Analyst Intern",
-    dates: "Oct 2022 – May 2023",
+    dates: "June 2022 – Nov 2022",
 
     responsibilities: [
       "Built DCF and trading-multiple models for listed Indian oil & gas companies using multi-year financials and scenarios on oil prices, volumes and capex, helping advisors compare valuation ranges across ~12 companies and refine recommendations by ~15%.",
