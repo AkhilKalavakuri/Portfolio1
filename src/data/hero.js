@@ -40,10 +40,10 @@ export const ABOUT = [
   },
   {
     label: "What motivates me",
-    text: "Credit analysis sits at the intersection of financial rigour and real-world business judgment. I find it genuinely interesting to understand how different businesses generate and consume cash — and what that means for a lender's risk position. I am also motivated by the responsibility of the role: credit decisions have tangible consequences for businesses and their stakeholders.",
+    text: "Credit analysis sits at the intersection of financial rigour and real-world business judgment. I find it genuinely interesting to understand how different businesses generate and consume cash and what that means for a lender's risk position. I am also motivated by the responsibility of the role: credit decisions have tangible consequences for businesses and their stakeholders.",
   },
   {
     label: "Career goal",
-    text: "I am seeking a junior credit analyst role within commercial banking, corporate lending, or credit risk — environments where I can build technical depth across the credit lifecycle, from origination through portfolio monitoring to restructuring.",
+    text: "I am seeking a junior credit analyst role within commercial banking, corporate lending, or credit risk environments where I can build technical depth across the credit lifecycle, from origination through portfolio monitoring to restructuring.",
   },
 ];
