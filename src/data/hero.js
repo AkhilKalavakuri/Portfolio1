@@ -22,7 +22,7 @@ export const CONTACT = {
   linkedin: "linkedin.com/in/akhilkalavakuri",
   linkedinUrl: "https://www.linkedin.com/in/akhilkalavakuri/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BR0wK1zaXSIqoHfjGst5PGA%3D%3D",
   cvUrl: "#",                           // Replace with path to your PDF CV
-  cta: "Open to credit analyst roles and internships in banking, lending, and risk analysis.",
+  cta: "Open to credit analyst roles and internships across banking, lending, and credit risk.",
 };
 
 // ─── ABOUT ────────────────────────────────────────────────────────────────
