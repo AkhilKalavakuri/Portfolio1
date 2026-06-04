@@ -36,7 +36,7 @@ export const ABOUT = [
   },
   {
     label: "What I focus on",
-    text: "I am most engaged when working with financial data — interpreting three-statement models, identifying earnings quality issues, and constructing credit arguments that hold up under stress. I approach every lending decision as a structured problem: what are the downside risks, what is the realistic recovery scenario, and does the return justify the exposure?",
+    text: "I am most engaged when working with financial data, interpreting three-statement models, identifying earnings quality issues, and constructing credit arguments that hold up under stress. I approach every lending decision as a structured problem: what are the downside risks, what is the realistic recovery scenario, and does the return justify the exposure?",
   },
   {
     label: "What motivates me",
