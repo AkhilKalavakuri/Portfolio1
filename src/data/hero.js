@@ -6,7 +6,7 @@ export const HERO = {
   title: "MSc Finance Graduate | Credit Analysis & Financial Modelling",
   eyebrow: "Credit Risk · Financial Analysis · Lending · Credit Underwriting · Fixed Income · Financial Modelling",
   positioning:
-    "I assess businesses from a credit risk perspective by reviewing financial statements, stress-testing cash flows and building lending recommendations that balance growth opportunities with downside protection.",
+    "I assess businesses from a credit risk perspective by reviewing financial statements, stress-testing cash flows, and building credit recommendations that protect against downside scenarios, while using AI tools to streamline analysis and monitoring workflows.",
   strengths: [
     "Financial Statement Analysis",
     "Credit Risk Evaluation",
