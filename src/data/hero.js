@@ -3,8 +3,8 @@
 
 export const HERO = {
   name: "Akhil Kalavakuri",
-  title: "Junior Credit Analyst",
-  eyebrow: "Credit Risk · Financial Analysis · Lending",
+  title: "MSc Finance Graduate | Credit Analysis & Financial Modelling",
+  eyebrow: "Credit Risk · Financial Analysis · Lending · Credit Underwriting · Fixed Income · Financial Modelling",
   positioning:
     "I assess businesses from a credit risk perspective by reviewing financial statements, stress-testing cash flows and building lending recommendations that balance growth opportunities with downside protection.",
   strengths: [
